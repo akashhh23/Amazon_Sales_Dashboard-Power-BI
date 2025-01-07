@@ -79,3 +79,9 @@ This project involves building an interactive Amazon Sales Dashboard using Power
 
 Feel free to explore, share, or contribute to this project! Feedback and suggestions are always welcome. 🚀
 
+## Author - Akash Patil
+
+This project is part of my portfolio, showcasing the Power BI skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+- **LinkedIn**: [[Connect with me professionally](https://www.linkedin.com/in/najirr)](https://www.linkedin.com/in/akash-patil-674569219)
+

@@ -1,4 +1,4 @@
-# Amazon Sales Dashboard (Technology used: Power Bi)
+# Amazon Sales Dashboard (Technology used : Power Bi)
 ## Project Overview
 This project involves building an interactive Amazon Sales Dashboard using Power BI to analyze sales performance, customer behavior, and product trends. The dashboard provides actionable insights for decision-makers to optimize operations, enhance customer experience, and increase revenue.
 
